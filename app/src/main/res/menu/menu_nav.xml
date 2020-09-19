@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/nav_home2"
+            android:title="Bitcoin Trends"
+            android:icon="@drawable/ic_home3"/>
+
+        <item
+            android:id="@+id/nav_home3"
+            android:title="Ethereum Trends"
+            android:icon="@drawable/ic_home3"/>
+
+    </group>
+
+    <item android:title="Hot Trends">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="CoinTelegraph.com"
+                    android:id="@+id/cointelegraph"
+                    android:icon="@drawable/ic_cointelegraph"/>
+                <item android:title="CoinDesk.com"
+                    android:id="@+id/coindesk"
+                    android:icon="@drawable/ic_coindesk"/>
+                <item android:title="newsBTC.com"
+                    android:id="@+id/newsBTC"
+                    android:icon="@drawable/ic_newsbtc"/>
+                <item android:title="Bitcoinist.com"
+                    android:id="@+id/bitcoinist"
+                    android:icon="@drawable/ic_bitcoinist"/>
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_rate"
+                    android:title="Rate us"
+                    android:icon="@drawable/ic_rate"/>
+            </group>
+        </menu>
+
+    </item>
+
+</menu>

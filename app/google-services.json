@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379147991364",
+    "firebase_url": "https://news-application-3a05b.firebaseio.com",
+    "project_id": "news-application-3a05b",
+    "storage_bucket": "news-application-3a05b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379147991364:android:c693e64351a86a8e6dbf11",
+        "android_client_info": {
+          "package_name": "com.mohitchaudhary.cryptonewspaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379147991364-0rm2l3vah69kljfaut4h6pmnd3vaslej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohitchaudhary.cryptonewspaper",
+            "certificate_hash": "d3bd1d014be7c6627c7d6b6f76f2ddb12cb7e274"
+          }
+        },
+        {
+          "client_id": "379147991364-n36s0cgabrvqu3ub5lgccef76vetbvp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a28eyuG2dAG_k7lBnRpfO2eO1OLMO9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379147991364-n36s0cgabrvqu3ub5lgccef76vetbvp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
